@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Harmeet718/JAVA/tree/master/1603-design-parking-system) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/Harmeet718/JAVA/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
