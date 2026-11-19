@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harmeet718/JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/Harmeet718/JAVA/tree/master/0065-valid-number) |
 ## Two Pointers
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Harmeet718/JAVA/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harmeet718/JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harmeet718/JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
