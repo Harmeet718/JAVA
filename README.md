@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harmeet718/JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Harmeet718/JAVA/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Harmeet718/JAVA/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Harmeet718/JAVA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
