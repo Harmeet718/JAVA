@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Harmeet718/JAVA/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Harmeet718/JAVA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
